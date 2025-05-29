@@ -567,8 +567,8 @@
             <description><![CDATA[ &lt;h1 id=&#34;测试发布文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试发布文章&#34;&gt;#&lt;/a&gt; 测试发布文章&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;Hello world!
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5C%E8%92%8B%E8%B6%85%5CDesktop%5Cblog%5Csource%5Cassets%5Cv2-deb114ff1fbe7d1b7b4d5b156e48c3ea_1440w.png&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/640.png&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/../_posts/test/v2-52220b2dba6901ee2181b72951d25a7b_1440w-1748503099017-7.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
